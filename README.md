@@ -1,4 +1,6 @@
 # Shoap-Dashboard
+ ![Image Alt](https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
+
 -This dashboard provides an interactive overview of supermarket sales performance, focusing on sales, discounts, tax, customer type, and payment methods.
 
 -This shows that discounts form a significant portion of pricing strategy, while tax impact is relatively small.
@@ -26,8 +28,7 @@ Tools & Technologies
     Analyze payment trends
     Optimize discount strategies
 
-  -Dashboard preview 
-   ![Image Alt](https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
+  
   
 
 
