@@ -22,6 +22,7 @@ Tools & Technologies
 - This dashboard helps businesses:
 
     Understand customer buying behavior
+-Dashboard preview (https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
 
     Identify profitable customer segments
 
