@@ -24,7 +24,8 @@ Tools & Technologies
     Understand customer buying behavior
     Identify profitable customer segments
     Analyze payment trends
--Dashboard preview (https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
+    Optimize discount strategies
+
+  -Dashboard preview (https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
 
 
-Optimize discount strategies
