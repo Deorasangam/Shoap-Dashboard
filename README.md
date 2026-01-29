@@ -26,6 +26,8 @@ Tools & Technologies
     Analyze payment trends
     Optimize discount strategies
 
-  -Dashboard preview (https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
+  -Dashboard preview 
+   ![Image Alt](https://github.com/Deorasangam/Shoap-Dashboard/blob/main/shoapsales.png)
+  
 
 
